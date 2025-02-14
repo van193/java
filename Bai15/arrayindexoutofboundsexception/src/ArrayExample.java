@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class ArrayIndexOutOfBoundsException {
+public class ArrayExample {
     public Integer[] createRandom() {
         Random rd = new Random();
         Integer[] arr = new Integer[100];
