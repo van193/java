@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class readFileText {
     public static void main(String[] args) {
         System.out.println("Nhập đường dẫn file: ");
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         String path = scanner.nextLine();
     
