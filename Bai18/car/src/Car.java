@@ -9,7 +9,7 @@ public class Car implements Runnable{
     }
 
     private static final int DISTANCE = 100;
-    private static final int STEP = 5;
+    private static final int STEP = 2;
 
     @Override
     public void run() {
