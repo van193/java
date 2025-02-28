@@ -3,7 +3,8 @@
         "GHIK"
     ],
     "java.project.sourcePaths": [
-        "Bai21\\taxi\\src"
+        "Bai21/taxi/src",
+        "Bai21/factory-method/src"
     ],
     "java.project.referencedLibraries": []
 }
