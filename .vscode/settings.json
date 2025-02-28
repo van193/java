@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
         "GHIK"
-    ]
+    ],
+    "java.project.sourcePaths": [
+        "Bai21\\taxi\\src"
+    ],
+    "java.project.referencedLibraries": []
 }
