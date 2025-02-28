@@ -3,8 +3,8 @@
         "GHIK"
     ],
     "java.project.sourcePaths": [
-        "Bai21/taxi/src",
-        "Bai21/factory-method/src"
+        "Bai21\\singleton",
+        "Bai21\\singleton\\src"
     ],
     "java.project.referencedLibraries": []
 }
