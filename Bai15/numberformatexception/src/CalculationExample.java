@@ -1,3 +1,5 @@
+package Bai15.numberformatexception.src;
+
 import java.util.Scanner;
 
 public class CalculationExample {

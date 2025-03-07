@@ -1,4 +1,4 @@
-import java.util.MyLinkedListQueue;
+package Bai11.MyLinkedListQueue.src;
 
 public class MyLinkedListQueue {
     class Node {

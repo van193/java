@@ -1,3 +1,5 @@
+package Bai7.circlecomparator.scr;
+
 public class Circle extends Shape {
     private double radius = 1.0;
 

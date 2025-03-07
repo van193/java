@@ -1,10 +1,12 @@
-import animal.Animal;
-import animal.Chicken;
-import animal.Tiger;
-import edible.Edible;
-import fruit.Fruit;
-import fruit.Orange;
-import fruit.Apple;
+package Bai7.abstractandinterfacetests.src;
+
+import Bai7.abstractandinterfacetests.src.animal.Animal;
+import Bai7.abstractandinterfacetests.src.animal.Chicken;
+import Bai7.abstractandinterfacetests.src.animal.Tiger;
+import Bai7.abstractandinterfacetests.src.edible.Edible;
+import Bai7.abstractandinterfacetests.src.fruit.Fruit;
+import Bai7.abstractandinterfacetests.src.fruit.Orange;
+import Bai7.abstractandinterfacetests.src.fruit.Apple;
 
 public class AbstractAndInterfaceTests {
     public static void main(String[] args) {

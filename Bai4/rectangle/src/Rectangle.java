@@ -1,3 +1,4 @@
+package Bai4.rectangle.src;
 import java.util.Scanner;
 
 public class Rectangle {

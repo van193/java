@@ -1,3 +1,4 @@
+package Bai5.student.src;
 import java.util.Scanner;
 
 public class Student {

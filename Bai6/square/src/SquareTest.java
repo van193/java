@@ -1,3 +1,5 @@
+package Bai6.square.src;
+
 public class SquareTest {
     public static void main(String[] args) {
         Square square = new Square();

@@ -1,3 +1,5 @@
+package Bai15.arrayindexoutofboundsexception.src;
+
 import java.util.Random;
 import java.util.Scanner;
 

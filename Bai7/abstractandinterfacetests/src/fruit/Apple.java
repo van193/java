@@ -1,4 +1,4 @@
-package fruit;
+package Bai7.abstractandinterfacetests.src.fruit;
 
 public class Apple extends Fruit {
     @Override

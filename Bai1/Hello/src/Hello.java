@@ -1,3 +1,4 @@
+package Bai1.Hello.src;
 import java.util.Scanner;
 
 public class Hello {

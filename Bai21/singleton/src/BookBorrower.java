@@ -1,3 +1,4 @@
+package Bai21.singleton.src;
 public class BookBorrower {
     private BookSingleton borrowedBook;
     private boolean haveBook = false;

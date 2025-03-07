@@ -1,3 +1,5 @@
+package Bai18.count.src;
+
 public class Count implements Runnable {
     private Thread myThread;
 

@@ -1,4 +1,4 @@
-import java.text.ListFormat.Style;
+package Bai6.rectangle.src;
 
 public class Shape {
     private String color = "green";

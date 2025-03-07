@@ -1,3 +1,5 @@
+package Bai18.car.src;
+
 import java.util.Random;
 
 public class Car implements Runnable{

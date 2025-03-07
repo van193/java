@@ -1,6 +1,6 @@
-package animal;
+package Bai7.abstractandinterfacetests.src.animal;
 
-import edible.Edible;
+import Bai7.abstractandinterfacetests.src.edible.Edible;
 
 public class Chicken extends Animal implements Edible {
     @Override

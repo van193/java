@@ -1,3 +1,4 @@
+package Bai21.singleton.src;
 public class BookSingleton {
     private String author;
     private String title;

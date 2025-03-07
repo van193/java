@@ -1,3 +1,5 @@
+package Bai6.square.src;
+
 public class Square extends Rectangle {
     public Square() {
     }

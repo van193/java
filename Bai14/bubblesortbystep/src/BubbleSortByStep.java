@@ -1,3 +1,5 @@
+package Bai14.bubblesortbystep.src;
+
 import java.util.Scanner;
 
 public class BubbleSortByStep {

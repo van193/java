@@ -1,3 +1,5 @@
+package Bai6.rectangle.src;
+
 public class Rectangle extends Shape {
     private double width = 1.0;
     private double length = 1.0;

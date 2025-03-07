@@ -1,3 +1,5 @@
+package Bai17.student.src;
+
 import java.io.Serializable;
 
 public class Student implements Serializable {
